@@ -2,3 +2,4 @@
 <a href="https://github.com/SSearch-e/SSearch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSearch-e&repo=SSearch" alt="ReadMe Card">
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SSearch-e&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />

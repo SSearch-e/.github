@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, We are SSearch</h1>
-<h3 align="center">We created the SSearch Search Engine and are working on something secret at the moment 🤫</h3>
-
-- 🔭 We are currently working on [SSearch](https://github.com/SSearch-e/SSearch)
-
-- 🌱 And also working on [Secret 🤫](https://ssearch-coming-soon.vercel.app/)
-
-- 👨‍💻 All of our projects are available at [https://github.com/orgs/SSearch-e/repositories](https://github.com/orgs/SSearch-e/repositories)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
